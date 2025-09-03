@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "689abb5206851167d443981a"
+  },
+  "name": "Aung Aung",
+  "location": "No 12 Lan Ma Kha Lan, Naypyitaw",
+  "lat": 19.76201862995765,
+  "lng": 96.06742591126033,
+  "image": "image_1.jpg",
+  "noticeable_mark": "A mole on left cheek",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689abb6a06851167d443981c"
+  },
+  "name": "Mg Mg",
+  "location": "No 88 Aung Thuka Lan, Nay Pyi Taw",
+  "lat": 19.76775864980249,
+  "lng": 96.07185362709646,
+  "image": "image_3.jpg\n",
+  "noticeable_mark": "A scar on left forehead",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689d5596577868e4550bfc4c"
+  },
+  "name": "Naung Naung",
+  "location": "567 Ho Khaine Lan, Nay Pyi Taw",
+  "lat": 19.767955533361192,
+  "lng": 96.07399375101195,
+  "image": "image_4.jpg",
+  "noticeable_mark": "-",
+  "__v": 0
+}]
