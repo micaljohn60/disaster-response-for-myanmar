@@ -61,3 +61,11 @@ chmod +x run_backend.sh & chmod +x run_frontend.sh
 Thank you for contributing to this project! Your support and contributions help make this project better for everyone.
 
 If you find any issues or have suggestions, feel free to open an [issue](#) or submit a pull request. We really appreciate your help! 🙏
+
+## Screenshots
+
+<img src="screenshots/screenshot_1.png" alt="Screenshot 1" width="300">
+<img src="screenshots/screenshot_2.png" alt="Screenshot 2" width="300">
+<img src="screenshots/screenshot_3.png" alt="Screenshot 3" width="300">
+<img src="screenshots/screenshot_4.png" alt="Screenshot 4" width="300">
+<img src="screenshots/screenshot_5.png" alt="Screenshot 5" width="300">
