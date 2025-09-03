@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #003049;
+    --color-secondary: #d62828;
+    --color-danger: #d62828;
+    --color-warning: #f77f00;
+    --color-light-warning: #fcbf49;
+    --color-fade-color: #eae2b7;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* Prevent scrollbars */
+}
